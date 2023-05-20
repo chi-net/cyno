@@ -1,4 +1,4 @@
-# Cyno - Yet an another firewall middleware for Gin
+# Cyno - Yet another firewall middleware for Gin
 
 ## Name: Inspired by Genshin Impact(Cyno is the General Mahamatra and he leads the Matra and strikes fear into the hearts of researchers of the Sumeru Akademiya.)
 
@@ -44,3 +44,7 @@ Under GPL-3.0 License.
 ## Used by:
 
 [Nahida-web](https://openid.chinet.work/login)
+
+## Source:
+
+This is a inner module of nahida-web, so it is updated 2 versions back with Nahida-web.
